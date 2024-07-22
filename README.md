@@ -10,7 +10,7 @@
 -  🍎 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
                                                                                                                                                                               
 - :mailbox:How to find me:<div id="badges">
-<a href="https://www.linkedin.com/in/leonid-kravchenko/">
+<a href="https://www.linkedin.com/in/vlad-kolesnikov-senior-qa/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
